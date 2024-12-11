@@ -1,6 +1,6 @@
 ![Architecture](https://github.com/user-attachments/assets/6821795d-616e-4132-a968-e8599a1ebb7d)
 
-# This project demonstrates a real-time streaming data pipeline using Apache Kafka, Apache Spark Streaming, and Apache Cassandra. The pipeline ingests data from a Kafka topic, processes it using Spark Streaming, and stores the processed data in a Cassandra database
+### This project demonstrates a real-time streaming data pipeline using Apache Kafka, Apache Spark Streaming, and Apache Cassandra. The pipeline ingests data from a Kafka topic, processes it using Spark Streaming, and stores the processed data in a Cassandra database
 
 ## 1.Real-Time Data Ingestion:
   Kafka is used as a distributed messaging system to produce and consume messages.
